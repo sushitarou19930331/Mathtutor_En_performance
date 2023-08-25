@@ -1003,7 +1003,7 @@
             </message>
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage></successMessage>
-            <hintMessage>Please click on the highlighted button.</hintMessage>
+            <hintMessage>Press "Done"</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
             <oldActionType>Correct Action</oldActionType>
@@ -1124,7 +1124,7 @@
             <buggyMessage>No, this is not correct.</buggyMessage>
             <successMessage>Very well done! Your hard work really paid off.</successMessage>
             <hintMessage>What did you want to calculate?</hintMessage>
-            <hintMessage>The fastest train = Train that travels the longest distance in an hour.&#12290;</hintMessage>
+            <hintMessage>The fastest train = Train that travels the longest distance in an hour.</hintMessage>
             <hintMessage>The answer is "Train C".</hintMessage>
             <callbackFn></callbackFn>
             <actionType>Correct Action</actionType>
